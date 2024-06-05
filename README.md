@@ -1,4 +1,5 @@
 MAIN OBJECTIVE
+
 SwiftNotes is a web application dedicated to note/document-taking and 
 collaboration. Its primary goal is to offer users an ideal platform for creating, 
 editing, and sharing notes in real-time. The focus of the developers is to simplify
@@ -7,6 +8,7 @@ documents together. Whether it's an individual organizing their thoughts or a
 team collaborating on a project. 
 
 APPLIED TECHNOLOGY
+
 The application utilized technologies to make things work smoothly. 
 Firebase Authentication and the Quill Docs Editor API were utilized to authenticate 
 users, manage user sessions, and enable rich text editing capabilities, 
@@ -21,6 +23,7 @@ monitors changes in Node.js applications and automatically restarts the server,
 was used to streamline the development process.
 
 PROGRAM STRUCTURE 
+
 • client: Contains all frontend-related files and folders.
 • server: Contains all backend-related files and folders.
 Main Components/Dependencies:
@@ -60,6 +63,7 @@ various authentication-related methods and functionalities.
 whenever the user's authentication state changes.
 
 SETTING IT UP LOCALLY
+
 1. Install Visual Studio Code: 
 - Download and Install Visual Studio Code from code.visualstudio.com.
 2. Install Node.js: 
